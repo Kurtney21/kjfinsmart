@@ -1,8 +1,6 @@
-package com.hotmail.jantjies.kurtney.PersonalFinanceTracker.domain;
+package com.hotmail.jantjies.kurtney.kjfinsmart.domain;
 
 import lombok.*;
-
-import java.util.Objects;
 
 @Builder
 @Getter

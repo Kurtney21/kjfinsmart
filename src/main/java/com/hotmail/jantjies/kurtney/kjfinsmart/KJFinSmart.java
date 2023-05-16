@@ -1,4 +1,4 @@
-package com.hotmail.jantjies.kurtney.PersonalFinanceTracker;
+package com.hotmail.jantjies.kurtney.kjfinsmart;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

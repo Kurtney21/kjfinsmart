@@ -1,6 +1,5 @@
-package com.hotmail.jantjies.kurtney.PersonalFinanceTracker.domain;
+package com.hotmail.jantjies.kurtney.kjfinsmart.domain;
 
-import jakarta.persistence.Id;
 import lombok.Builder;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;

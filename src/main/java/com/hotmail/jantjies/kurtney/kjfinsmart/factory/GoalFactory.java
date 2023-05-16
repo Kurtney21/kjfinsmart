@@ -1,7 +1,7 @@
-package com.hotmail.jantjies.kurtney.PersonalFinanceTracker.factory;
+package com.hotmail.jantjies.kurtney.kjfinsmart.factory;
 
-import com.hotmail.jantjies.kurtney.PersonalFinanceTracker.domain.Goal;
-import com.hotmail.jantjies.kurtney.PersonalFinanceTracker.domain.User;
+import com.hotmail.jantjies.kurtney.kjfinsmart.domain.Goal;
+import com.hotmail.jantjies.kurtney.kjfinsmart.domain.User;
 
 public class GoalFactory {
     public static Goal createGoal(String goalId, double targetAmount, double achievedAmount, User user){

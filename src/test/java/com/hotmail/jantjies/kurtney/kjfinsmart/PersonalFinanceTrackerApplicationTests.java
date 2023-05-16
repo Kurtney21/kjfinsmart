@@ -1,4 +1,4 @@
-package com.hotmail.jantjies.kurtney.PersonalFinanceTracker;
+package com.hotmail.jantjies.kurtney.kjfinsmart;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

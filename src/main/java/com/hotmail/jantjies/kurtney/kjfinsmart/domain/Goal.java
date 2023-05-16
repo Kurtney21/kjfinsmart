@@ -1,4 +1,4 @@
-package com.hotmail.jantjies.kurtney.PersonalFinanceTracker.domain;
+package com.hotmail.jantjies.kurtney.kjfinsmart.domain;
 
 import lombok.Builder;
 import lombok.EqualsAndHashCode;

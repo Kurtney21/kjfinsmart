@@ -1,6 +1,6 @@
-package com.hotmail.jantjies.kurtney.PersonalFinanceTracker.factory;
+package com.hotmail.jantjies.kurtney.kjfinsmart.factory;
 
-import com.hotmail.jantjies.kurtney.PersonalFinanceTracker.domain.User;
+import com.hotmail.jantjies.kurtney.kjfinsmart.domain.User;
 
 public class UserFactory {
     public static User createUser(String userId, String username, String email, String password){

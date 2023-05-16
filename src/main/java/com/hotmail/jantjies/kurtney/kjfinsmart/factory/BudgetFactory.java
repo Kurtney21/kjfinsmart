@@ -1,7 +1,7 @@
-package com.hotmail.jantjies.kurtney.PersonalFinanceTracker.factory;
+package com.hotmail.jantjies.kurtney.kjfinsmart.factory;
 
-import com.hotmail.jantjies.kurtney.PersonalFinanceTracker.domain.Budget;
-import com.hotmail.jantjies.kurtney.PersonalFinanceTracker.domain.User;
+import com.hotmail.jantjies.kurtney.kjfinsmart.domain.Budget;
+import com.hotmail.jantjies.kurtney.kjfinsmart.domain.User;
 
 public class BudgetFactory {
     public static Budget createBudget(String id, double amount, String category, User user){
